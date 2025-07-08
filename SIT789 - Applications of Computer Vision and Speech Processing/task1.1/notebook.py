@@ -8,9 +8,9 @@
 #       format_version: '1.0'
 #       jupytext_version: 1.17.1
 #   kernelspec:
-#     display_name: Python [conda env:base] *
+#     display_name: Python 3 (ipykernel)
 #     language: python
-#     name: conda-base-py
+#     name: python3
 # ---
 
 import numpy as np

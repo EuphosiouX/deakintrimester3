@@ -11,6 +11,7 @@ import math
 
 img2 = cv.imread('img2.jpg')
 img3 = cv.imread('img3.jpg')
+img_lenna = cv.imread('Lenna.png')
 
 
 # In[2]:
@@ -37,16 +38,22 @@ def color_hist(img):
 # In[3]:
 
 
-color_hist(img2)
+color_hist(img_lenna)
 
 
 # In[4]:
 
 
+color_hist(img2)
+
+
+# In[7]:
+
+
 color_hist(img3)
 
 
-# In[5]:
+# In[9]:
 
 
 img_gray2 = cv.cvtColor(img2, cv.COLOR_BGR2GRAY) 
@@ -57,7 +64,7 @@ plt.xlim([0,256])
 plt.show()
 
 
-# In[6]:
+# In[11]:
 
 
 img_gray3 = cv.cvtColor(img3, cv.COLOR_BGR2GRAY) 
@@ -68,7 +75,7 @@ plt.xlim([0,256])
 plt.show()
 
 
-# In[7]:
+# In[15]:
 
 
 def getCumulativeDis(hist): 
@@ -80,7 +87,7 @@ def getCumulativeDis(hist):
     return c
 
 
-# In[8]:
+# In[17]:
 
 
 c2 = getCumulativeDis(hist_gray2) 
@@ -90,7 +97,7 @@ plt.xlim([0,256])
 plt.show() 
 
 
-# In[9]:
+# In[19]:
 
 
 c3 = getCumulativeDis(hist_gray3) 
@@ -100,21 +107,21 @@ plt.xlim([0,256])
 plt.show() 
 
 
-# In[10]:
+# In[21]:
 
 
 img_equ2 = cv.equalizeHist(img_gray2) 
 plt.imshow(img_equ2, cmap='gray')
 
 
-# In[12]:
+# In[23]:
 
 
 img_equ3 = cv.equalizeHist(img_gray3) 
 plt.imshow(img_equ3, cmap='gray')
 
 
-# In[14]:
+# In[25]:
 
 
 hist_equ2 = cv.calcHist([img_equ2],[0],None,[256],[0,256]) 
@@ -123,7 +130,7 @@ plt.xlim([0,256])
 plt.show() 
 
 
-# In[16]:
+# In[27]:
 
 
 hist_equ3 = cv.calcHist([img_equ3],[0],None,[256],[0,256]) 
@@ -132,7 +139,7 @@ plt.xlim([0,256])
 plt.show() 
 
 
-# In[19]:
+# In[29]:
 
 
 c_equ2 = getCumulativeDis(hist_equ2) 
@@ -142,7 +149,7 @@ plt.xlim([0,256])
 plt.show()
 
 
-# In[23]:
+# In[31]:
 
 
 c_equ3 = getCumulativeDis(hist_equ3) 
@@ -152,7 +159,7 @@ plt.xlim([0,256])
 plt.show()
 
 
-# In[25]:
+# In[33]:
 
 
 def Chi_2(H1, H2):
@@ -164,7 +171,7 @@ def Chi_2(H1, H2):
     return np.sum(num / denorm)
 
 
-# In[27]:
+# In[35]:
 
 
 def kl_divergence(H1, H2):
@@ -176,35 +183,36 @@ def kl_divergence(H1, H2):
     h1 /= s1
     h2 /= s2
     
-    log = [math.log(y) for y in (h1/h2)]
-    kl = h1 * log
+    kl = []
+    for i in range(len(h1)):
+        kl.append(h1[i] * math.log(h1[i] / h2[i]))
     return np.sum(kl)
 
 
-# In[35]:
+# In[37]:
 
 
 Chi_2_hist2 = Chi_2(hist_gray2, hist_equ2)
 print(Chi_2_hist2)
 
 
-# In[37]:
+# In[39]:
 
 
-kl_divergence_hist2 = kl_divergence(hist_gray2, hist_equ2)
+kl_divergence_hist2 = kl_divergence(hist_gray2, hist_equ2) + kl_divergence(hist_equ2, hist_gray2)
 print(kl_divergence_hist2)
 
 
-# In[39]:
+# In[41]:
 
 
 Chi_2_hist3 = Chi_2(hist_gray3, hist_equ3)
 print(Chi_2_hist3)
 
 
-# In[41]:
+# In[43]:
 
 
-kl_divergence_hist3 = kl_divergence(hist_gray3, hist_equ3)
+kl_divergence_hist3 = kl_divergence(hist_gray3, hist_equ3) + kl_divergence(hist_equ3, hist_gray3)
 print(kl_divergence_hist3)
 

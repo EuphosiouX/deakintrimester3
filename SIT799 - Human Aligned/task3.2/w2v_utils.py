@@ -99,8 +99,8 @@ class SimilarityCallback:
 
 import numpy as np
 
-def read_glove_vecs(glove_file):
-    with open(glove_file, 'r') as f:
+def read_glove_vecs(glove_file,):
+    with open(glove_file, 'r', encoding = 'utf-8') as f:
         words = set()
         word_to_vec_map = {}
         

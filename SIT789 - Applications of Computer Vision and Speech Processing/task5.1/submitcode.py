@@ -106,49 +106,49 @@ optimizer = optim.AdamW(net.parameters(), lr=0.0005) #lr: learning rate
 # ## Step 6: Train the network
 
 # %%
-# #training
+#training
 
-# net.to(device)
+net.to(device)
 
-# start_time = time.time()
+start_time = time.time()
 
-# loss_history = []
-# epoch = 50
-# for e in range(epoch):  # loop over the dataset multiple times
+loss_history = []
+epoch = 50
+for e in range(epoch):  # loop over the dataset multiple times
 
-#     running_loss = 0.0
-#     for i, data in enumerate(trainloader, 0):
-#         # get the inputs; data is a list of [inputs, labels]
-#         inputs, labels = data[0].to(device), data[1].to(device)
+    running_loss = 0.0
+    for i, data in enumerate(trainloader, 0):
+        # get the inputs; data is a list of [inputs, labels]
+        inputs, labels = data[0].to(device), data[1].to(device)
 
-#         # set the parameter gradients to zero
-#         optimizer.zero_grad()
+        # set the parameter gradients to zero
+        optimizer.zero_grad()
 
-#         # forward + backward + optimize
-#         outputs = net(inputs)
-#         loss = criterion(outputs, labels)
-#         loss.backward()
-#         optimizer.step()
+        # forward + backward + optimize
+        outputs = net(inputs)
+        loss = criterion(outputs, labels)
+        loss.backward()
+        optimizer.step()
 
-#         # print statistics
-#         running_loss += loss.item()
-#         if i % 2000 == 1999:    # print every 2000 mini-batches
-#             print('epoch: %d, baches: %5d, loss: %.3f' %
-#                   (e + 1, i + 1, running_loss / 2000))
-#             loss_history.append(running_loss)
-#             running_loss = 0.0
+        # print statistics
+        running_loss += loss.item()
+        if i % 2000 == 1999:    # print every 2000 mini-batches
+            print('epoch: %d, baches: %5d, loss: %.3f' %
+                  (e + 1, i + 1, running_loss / 2000))
+            loss_history.append(running_loss)
+            running_loss = 0.0
 
-# print('Finished Training')
+print('Finished Training')
 
-# print('Training time in %s seconds ---' % (time.time() - start_time))
+print('Training time in %s seconds ---' % (time.time() - start_time))
 
-# plt.plot(loss_history, label = 'training loss', color = 'r')
-# plt.legend(loc = 'upper left')
-# plt.show()
+plt.plot(loss_history, label = 'training loss', color = 'r')
+plt.legend(loc = 'upper left')
+plt.show()
 
-# # Save the network after training to file
-# # PATH = './cifar_net.pth'
-# # torch.save(net.state_dict(), PATH)
+# Save the network after training to file
+PATH = './cifar_net.pth'
+torch.save(net.state_dict(), PATH)
 
 # %% [markdown]
 # ## Step 7: Test the network with some test samples

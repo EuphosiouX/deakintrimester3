@@ -1,0 +1,226 @@
+address,suburb,state,postcode,date_sold,bedroom,bathroom,carspace,size,type,price
+303/9 High Street,Preston,VIC,3072,2025-09-03 00:00:00,1,1,1,,Apartment,389000
+306/277 Raglan Street,Preston,VIC,3072,2025-09-02 00:00:00,2,1,1,63,Apartment,430000
+20 Marjorie Street,Preston,VIC,3072,2025-08-30 00:00:00,3,1,2,480,House,1240000
+29 David Street,Preston,VIC,3072,2025-08-30 00:00:00,3,1,1,490,House,1220000
+4 Lyonsville Avenue,Preston,VIC,3072,2025-08-28 00:00:00,3,1,2,,House,1169000
+408/100 Plenty Road,Preston,VIC,3072,2025-08-28 00:00:00,2,1,1,,Apartment,512000
+8 Kenwood Court,Preston,VIC,3072,2025-08-27 00:00:00,3,3,2,190,Townhouse,1085000
+220/388 Murray Road,Preston,VIC,3072,2025-08-27 00:00:00,2,2,1,,Apartment,435000
+32 Booth Street,Preston,VIC,3072,2025-08-25 00:00:00,4,2,2,,House,1420000
+254 Gilbert Road,Preston,VIC,3072,2025-08-23 00:00:00,4,1,10,565,House,1300000
+2/38 Regent Street,Preston,VIC,3072,2025-08-23 00:00:00,3,2,2,195,Townhouse,935000
+213 Dundas Street,Preston,VIC,3072,2025-08-22 00:00:00,3,1,2,,House,1060000
+12/70-72 St Georges Road,Preston,VIC,3072,2025-08-21 00:00:00,3,3,1,200,Townhouse,650000
+7/106 David Street,Preston,VIC,3072,2025-08-19 00:00:00,2,2,1,,Townhouse,776000
+3/2 Olver Street,Preston,VIC,3072,2025-08-18 00:00:00,2,2,1,,Townhouse,805000
+904/35 Plenty Road,Preston,VIC,3072,2025-08-16 00:00:00,3,2,2,141,Apartment,1070000
+1/11 Diamond Street,Preston,VIC,3072,2025-08-16 00:00:00,3,2,2,,House,1067500
+1/23 Regent Street,Preston,VIC,3072,2025-08-16 00:00:00,2,1,1,,Townhouse,670000
+2/18 Gordon Grove,Preston,VIC,3072,2025-08-15 00:00:00,3,1,2,,Villa,995000
+304/5-7 Blanch Street,Preston,VIC,3072,2025-08-13 00:00:00,1,1,1,,Apartment,325000
+603/50-56 High Street,Preston,VIC,3072,2025-08-12 00:00:00,3,1,2,,Apartment,605000
+507/5 Blanch Street,Preston,VIC,3072,2025-08-12 00:00:00,2,1,1,,Apartment,350000
+3 Albert Street,Preston,VIC,3072,2025-08-09 00:00:00,4,2,3,708,House,1305000
+18 Railton Grove,Preston,VIC,3072,2025-08-09 00:00:00,2,1,1,,House,795000
+402/501 Plenty Road,Preston,VIC,3072,2025-08-08 00:00:00,2,2,1,89.4,Apartment,550000
+102/450 Bell Street,Preston,VIC,3072,2025-08-08 00:00:00,1,1,1,,Apartment,349000
+171A Dundas Street,Preston,VIC,3072,2025-08-05 00:00:00,4,3,2,455,House,1790000
+1-6/94 Beauchamp Street,Preston,VIC,3072,2025-08-04 00:00:00,12,6,6,,Block of units,2535000
+2B Victoria Street,Preston,VIC,3072,2025-08-02 00:00:00,3,2,2,,House,1240000
+11 South Street,Preston,VIC,3072,2025-08-02 00:00:00,3,1,1,,House,1085000
+5/1 Bruce Street,Preston,VIC,3072,2025-08-02 00:00:00,3,1,1,,Townhouse,895000
+21A Cynga Street,Preston,VIC,3072,2025-08-02 00:00:00,3,2,1,,Townhouse,855000
+50 Garnet Street,Preston,VIC,3072,2025-08-02 00:00:00,2,1,2,,Townhouse,851000
+4/74 Wood Street,Preston,VIC,3072,2025-08-02 00:00:00,2,1,1,,Townhouse,530000
+2/30 Leicester Street,Preston,VIC,3072,2025-08-01 00:00:00,3,3,2,,Townhouse,1025000
+3/18 Mcdonald Street,Preston,VIC,3072,2025-07-31 00:00:00,2,1,1,,Unit,762000
+11A Kallista Court,Preston,VIC,3072,2025-07-30 00:00:00,3,2,3,494,House,880000
+1/588 Plenty Road,Preston,VIC,3072,2025-07-30 00:00:00,2,2,1,,Townhouse,775000
+26 Birch Street,Preston,VIC,3072,2025-07-29 00:00:00,4,4,2,,House,2120000
+211/10 Clinch Avenue,Preston,VIC,3072,2025-07-29 00:00:00,2,1,1,66,Apartment,410000
+206/43 High Street,Preston,VIC,3072,2025-07-29 00:00:00,1,1,1,,Apartment,366000
+97 Madeline Street,Preston,VIC,3072,2025-07-26 00:00:00,4,1,3,534,House,1080000
+508/9 High Street,Preston,VIC,3072,2025-07-26 00:00:00,2,2,1,,Apartment,600000
+103/2 Plenty Road,Preston,VIC,3072,2025-07-25 00:00:00,2,2,1,65,Apartment,445000
+43 Rene Street,Preston,VIC,3072,2025-07-24 00:00:00,2,1,2,534,House,1130000
+5/427-435 Gilbert Road,Preston,VIC,3072,2025-07-24 00:00:00,2,1,1,,Unit,681000
+4/43 Spring Street,Preston,VIC,3072,2025-07-24 00:00:00,2,1,1,,Apartment,475000
+176 Miller Street,Preston,VIC,3072,2025-07-23 00:00:00,5,3,4,483,House,1450000
+108/5 Blanch Street,Preston,VIC,3072,2025-07-23 00:00:00,2,2,1,,Apartment,399800
+201B/8 Clinch Avenue,Preston,VIC,3072,2025-07-21 00:00:00,2,2,1,,Apartment,495500
+67A Youngman Street,Preston,VIC,3072,2025-07-19 00:00:00,4,2,4,205,House,1124500
+57 Albert Street,Preston,VIC,3072,2025-07-19 00:00:00,3,1,2,,House,725000
+3/553 Murray Road,Preston,VIC,3072,2025-07-19 00:00:00,2,2,1,,Townhouse,610000
+36 Townhall Avenue,Preston,VIC,3072,2025-07-18 00:00:00,3,1,2,420,House,1140000
+1/15 Malcolm Street,Preston,VIC,3072,2025-07-18 00:00:00,3,1,1,231,House,1030000
+77 Spring Street,Preston,VIC,3072,2025-07-18 00:00:00,3,2,2,,House,1000000
+9/329-331 Plenty Road,Preston,VIC,3072,2025-07-18 00:00:00,2,2,1,,Townhouse,740000
+4/492 Murray Road,Preston,VIC,3072,2025-07-18 00:00:00,2,1,1,,Townhouse,710000
+G13/450 Bell Street,Preston,VIC,3072,2025-07-18 00:00:00,2,2,1,,Apartment,410000
+205/5 Blanch Street,Preston,VIC,3072,2025-07-17 00:00:00,2,2,1,98,Apartment,475000
+3/229 Gower Street,Preston,VIC,3072,2025-07-17 00:00:00,1,1,2,,Unit,382500
+143 Albert Street,Preston,VIC,3072,2025-07-15 00:00:00,3,1,2,,House,810000
+3/4-6 Sheffield Street,Preston,VIC,3072,2025-07-15 00:00:00,2,1,1,,Apartment,562000
+108/450 Bell Street,Preston,VIC,3072,2025-07-15 00:00:00,1,1,1,,Apartment,345000
+5/110 David Street,Preston,VIC,3072,2025-07-12 00:00:00,2,1,1,,Apartment,545000
+705/35 Plenty Road,Preston,VIC,3072,2025-07-12 00:00:00,2,1,1,,Apartment,540000
+2/23 Laha Crescent,Preston,VIC,3072,2025-07-11 00:00:00,3,2,1,,Townhouse,720000
+3/27-29 Enfield Avenue,Preston,VIC,3072,2025-07-11 00:00:00,2,1,1,,Apartment,481000
+408/2 Plenty Road,Preston,VIC,3072,2025-07-11 00:00:00,1,1,1,,Apartment,310000
+5/152 Tyler Street,Preston,VIC,3072,2025-07-10 00:00:00,1,1,1,,Unit,413000
+23 Milton Crescent,Preston,VIC,3072,2025-07-08 00:00:00,3,1,2,486,House,1320000
+5/27 Benambra Street,Preston,VIC,3072,2025-07-08 00:00:00,2,1,1,,Unit,700000
+304/18 Gilbert Road,Preston,VIC,3072,2025-07-08 00:00:00,1,1,1,,Apartment,394600
+Rear 1-3 Gillingham Street,Preston,VIC,3072,2025-07-05 00:00:00,3,2,2,,House,1150000
+1/104 Malpas Street,Preston,VIC,3072,2025-07-05 00:00:00,3,1,2,,Unit,895000
+195/8 Waterside Place,Docklands,VIC,3008,2025-09-03 00:00:00,3,2,2,,Apartment,1380000
+1201/100 Harbour Esplanade,Docklands,VIC,3008,2025-08-28 00:00:00,2,2,1,111,Apartment,725000
+1113/421 Docklands Drive,Docklands,VIC,3008,2025-08-25 00:00:00,1,1,1,,Apartment,415000
+108/29 Rakaia Way,Docklands,VIC,3008,2025-08-19 00:00:00,2,2,1,97,Apartment,635000
+1609/8 Marmion Place,Docklands,VIC,3008,2025-08-18 00:00:00,2,1,1,83,Apartment,560000
+1304/15 Caravel Lane,Docklands,VIC,3008,2025-08-17 00:00:00,2,2,1,100,Apartment,690000
+222/55 Victoria Harbour Promenade,Docklands,VIC,3008,2025-08-14 00:00:00,2,2,2,137,Apartment,1185000
+2302/103 South Wharf Drive,Docklands,VIC,3008,2025-08-14 00:00:00,2,2,1,,Apartment,920000
+309/421 Docklands Drive,Docklands,VIC,3008,2025-08-13 00:00:00,2,1,1,,Apartment,515000
+2603/70 Lorimer Street,Docklands,VIC,3008,2025-08-12 00:00:00,2,2,2,143,Apartment,1150000
+1203/15 Caravel Lane,Docklands,VIC,3008,2025-08-12 00:00:00,2,2,1,97,Apartment,700000
+4001/100 Harbour Esplanade,Docklands,VIC,3008,2025-08-09 00:00:00,3,4,3,391,Apartment,2375000
+2404/1 Point Park Crescent,Docklands,VIC,3008,2025-08-08 00:00:00,2,2,1,,Apartment,880000
+3602/103 South Wharf Drive,Docklands,VIC,3008,2025-08-06 00:00:00,4,2,2,188,Apartment,1925000
+1004/25 Waterfront Way,Docklands,VIC,3008,2025-08-06 00:00:00,3,3,2,142,Apartment,1500000
+1210S/889 Collins Street,Docklands,VIC,3008,2025-08-02 00:00:00,2,2,1,74,Apartment,608000
+5B/9 Waterside Place,Docklands,VIC,3008,2025-08-01 00:00:00,1,1,1,60,Apartment,450000
+2808/103 South Wharf Drive,Docklands,VIC,3008,2025-07-30 00:00:00,2,1,1,91,Apartment,730000
+1205/20 Rakaia Way,Docklands,VIC,3008,2025-07-30 00:00:00,2,2,1,,Apartment,725000
+216/9 The Arcade,Docklands,VIC,3008,2025-07-28 00:00:00,2,1,1,97,Apartment,530000
+1204/70 Lorimer Street,Docklands,VIC,3008,2025-07-24 00:00:00,2,2,2,127,Apartment,937500
+1207/18 Waterview Walk,Docklands,VIC,3008,2025-07-24 00:00:00,2,2,2,,Apartment,760000
+66/55 Victoria Harbour Promenade,Docklands,VIC,3008,2025-07-22 00:00:00,3,2,2,,Apartment,1390000
+606/838 Bourke Street,Docklands,VIC,3008,2025-07-22 00:00:00,2,2,1,92,Apartment,635000
+904/100 Harbour Esplanade,Docklands,VIC,3008,2025-07-22 00:00:00,2,1,1,78,Apartment,535000
+808/677 La Trobe  Street,Docklands,VIC,3008,2025-07-21 00:00:00,2,1,1,,Apartment,520000
+4103/103 South Wharf Drive,Docklands,VIC,3008,2025-07-19 00:00:00,3,3,4,263,Apartment,3265000
+804/421 Docklands Drive,Docklands,VIC,3008,2025-07-19 00:00:00,1,1,1,51,Apartment,405000
+903/8 Pearl River Road,Docklands,VIC,3008,2025-07-18 00:00:00,2,1,1,,Other,613800
+1310/2 Newquay Promenade,Docklands,VIC,3008,2025-07-18 00:00:00,1,1,1,65,Apartment,455000
+1504/25 Waterfront Way,Docklands,VIC,3008,2025-07-17 00:00:00,2,2,1,96,Apartment,907500
+3506E/888 Collins Street,Docklands,VIC,3008,2025-07-15 00:00:00,2,1,1,,Apartment,595000
+1809/39 Caravel Lane,Docklands,VIC,3008,2025-07-15 00:00:00,1,1,1,69,Apartment,440000
+2202/231 Harbour Esplanade,Docklands,VIC,3008,2025-07-10 00:00:00,2,2,1,77,Apartment,605000
+601/8 McCrae Street,Docklands,VIC,3008,2025-07-09 00:00:00,2,2,1,101,Apartment,625000
+1006/18 Waterview Walk,Docklands,VIC,3008,2025-07-09 00:00:00,2,1,1,,Apartment,570000
+1402/8 Waterview Walk,Docklands,VIC,3008,2025-07-08 00:00:00,2,2,1,108,Apartment,698000
+2402/241 Harbour Esplanade,Docklands,VIC,3008,2025-07-08 00:00:00,2,1,1,65,Apartment,456000
+3203E/888 Collins Street,Docklands,VIC,3008,2025-07-07 00:00:00,2,1,1,,Apartment,605000
+706a/198 Harbour Esplanade,Docklands,VIC,3008,2025-07-07 00:00:00,1,1,1,,Apartment,320000
+1502/2 Glenti Place,Docklands,VIC,3008,2025-07-06 00:00:00,4,3,3,327,Apartment,2608888
+1707/421 Docklands Drive,Docklands,VIC,3008,2025-07-04 00:00:00,2,1,1,67,Apartment,500000
+2312/100 Harbour Esplanade,Docklands,VIC,3008,2025-07-02 00:00:00,2,2,1,85,Apartment,666000
+706/50 Lorimer Street,Docklands,VIC,3008,2025-07-01 00:00:00,2,1,1,175,Apartment,730000
+1411/673  La Trobe Street,Docklands,VIC,3008,2025-06-30 00:00:00,2,1,1,68,Apartment,485000
+2401/90 Lorimer Street,Docklands,VIC,3008,2025-06-26 00:00:00,3,2,2,221,Apartment,1880000
+1103/677 La Trobe Street,Docklands,VIC,3008,2025-06-26 00:00:00,2,1,1,,Apartment,495000
+3102/100 Harbour Esplanade,Docklands,VIC,3008,2025-06-25 00:00:00,2,2,1,,Apartment,762500
+711/15 Doepel Way,Docklands,VIC,3008,2025-06-25 00:00:00,2,2,1,88,Apartment,695000
+1707/100 Harbour Esplanade,Docklands,VIC,3008,2025-06-23 00:00:00,2,2,1,96,Apartment,685000
+1603E/888 Collins Street,Docklands,VIC,3008,2025-06-23 00:00:00,2,1,1,62,Apartment,585000
+605/8 Pearl River Road,Docklands,VIC,3008,2025-06-23 00:00:00,1,1,1,,Apartment,420000
+1701/100 Harbour Esplanade,Docklands,VIC,3008,2025-06-20 00:00:00,2,2,1,112,Apartment,742000
+1603/1 Point Park Crescent,Docklands,VIC,3008,2025-06-19 00:00:00,2,2,2,,Apartment,1000000
+1210/3 Aquitania Way,Docklands,VIC,3008,2025-06-18 00:00:00,3,2,1,,Apartment,936000
+284/8 Waterside Place,Docklands,VIC,3008,2025-06-12 00:00:00,2,2,2,107,Apartment,980000
+83/111 Merchant Street,Docklands,VIC,3008,2025-06-12 00:00:00,2,1,1,109,Apartment,702000
+1408/20 Rakaia Way,Docklands,VIC,3008,2025-06-12 00:00:00,2,1,1,91,Apartment,610000
+413/8 Pearl River Road,Docklands,VIC,3008,2025-06-11 00:00:00,2,2,1,105,Apartment,660000
+911/8 Marmion Place,Docklands,VIC,3008,2025-06-11 00:00:00,1,1,1,,Apartment,348000
+1606/100 Lorimer Street,Docklands,VIC,3008,2025-06-10 00:00:00,2,1,1,74,Apartment,570000
+107/12 Waterview Walk,Docklands,VIC,3008,2025-06-10 00:00:00,1,1,1,64,Apartment,420000
+1001/60 Lorimer Street,Docklands,VIC,3008,2025-06-09 00:00:00,2,2,2,131,Apartment,950000
+1003/100 Lorimer Street,Docklands,VIC,3008,2025-06-09 00:00:00,2,2,1,,Apartment,830000
+2306/9 Waterside Place,Docklands,VIC,3008,2025-06-09 00:00:00,2,2,1,,Apartment,768000
+2811E/888 Collins Street,Docklands,VIC,3008,2025-06-09 00:00:00,2,2,1,71,Apartment,670000
+1602/8 Marmion Place,Docklands,VIC,3008,2025-06-09 00:00:00,2,1,1,78,Apartment,565000
+1006/100 Harbour Esplanade,Docklands,VIC,3008,2025-06-06 00:00:00,2,1,1,78,Apartment,542500
+203S/883 Collins Street,Docklands,VIC,3008,2025-06-04 00:00:00,2,2,1,77,Apartment,671000
+323/15 Doepel Way,Docklands,VIC,3008,2025-06-03 00:00:00,2,1,1,,Apartment,590000
+1912/421 Docklands Drive,Docklands,VIC,3008,2025-06-03 00:00:00,1,1,1,54,Apartment,430000
+26 Leven Avenue,Docklands,VIC,3008,2025-05-30 00:00:00,2,2,1,124,Townhouse,1110000
+1602/60 Lorimer Street,Docklands,VIC,3008,2025-05-30 00:00:00,2,1,1,95,Apartment,780000
+1116/100 Harbour Esplanade,Docklands,VIC,3008,2025-05-30 00:00:00,2,1,1,79,Apartment,485000
+2505/1 Point Park Crescent,Docklands,VIC,3008,2025-05-29 00:00:00,3,2,2,157,Apartment,1370000
+408/2-14 Albert Road,South Melbourne,VIC,3205,2025-08-29 00:00:00,1,1,1,,Apartment,528000
+238 Moray Street,South Melbourne,VIC,3205,2025-08-27 00:00:00,3,2,1,,House,1770000
+302/67-71 Stead Street,South Melbourne,VIC,3205,2025-08-14 00:00:00,1,1,1,57,Apartment,400000
+406/79 Market Street,South Melbourne,VIC,3205,2025-08-11 00:00:00,2,1,1,,Apartment,600000
+1009/2 Albert Road,South Melbourne,VIC,3205,2025-08-11 00:00:00,2,1,1,,Apartment,560000
+603/97 Palmerston Crescent,South Melbourne,VIC,3205,2025-08-11 00:00:00,2,1,2,,Apartment,525000
+2307/50 Albert Road,South Melbourne,VIC,3205,2025-08-08 00:00:00,1,1,1,,Apartment,436000
+1705/89 Gladstone Street,South Melbourne,VIC,3205,2025-08-01 00:00:00,2,2,1,,Apartment,495000
+20A Napier Street,South Melbourne,VIC,3205,2025-07-29 00:00:00,2,2,1,,Apartment,650000
+904/22 Kings Place,South Melbourne,VIC,3205,2025-07-25 00:00:00,2,2,2,,Apartment,1315000
+61/69 Dorcas Street,South Melbourne,VIC,3205,2025-07-21 00:00:00,2,2,2,100,Apartment,750000
+905/38 Albert Road,South Melbourne,VIC,3205,2025-07-21 00:00:00,2,2,1,,Apartment,600000
+75/1 Sandilands Street,South Melbourne,VIC,3205,2025-07-18 00:00:00,2,2,2,,Apartment,960000
+303/51 Thistlethwaite Street,South Melbourne,VIC,3205,2025-07-18 00:00:00,2,2,1,,Apartment,675000
+5/278 Kings Way,South Melbourne,VIC,3205,2025-07-17 00:00:00,3,2,1,,Townhouse,935000
+402/244 Dorcas Street,South Melbourne,VIC,3205,2025-07-14 00:00:00,1,1,1,,Apartment,580500
+201/274 Coventry Street,South Melbourne,VIC,3205,2025-07-10 00:00:00,1,1,1,,Apartment,570000
+16 Queen Street,South Melbourne,VIC,3205,2025-07-08 00:00:00,2,1,1,,House,1275000
+1103/28 Bank Street,South Melbourne,VIC,3205,2025-06-30 00:00:00,2,1,1,,Apartment,575000
+502/274 Coventry Street,South Melbourne,VIC,3205,2025-06-26 00:00:00,2,2,1,,Apartment,900000
+501/28 Bank Street,South Melbourne,VIC,3205,2025-06-26 00:00:00,2,2,1,83,Apartment,712000
+4 Nixon Place,South Melbourne,VIC,3205,2025-06-21 00:00:00,2,1,1,175,House,1500000
+G04/99 Palmerston Crescent,South Melbourne,VIC,3205,2025-06-21 00:00:00,1,1,1,,Apartment,445000
+505/75 Palmerston Crescent,South Melbourne,VIC,3205,2025-06-18 00:00:00,1,1,1,52,Apartment,394000
+73/39 Dorcas Street,South Melbourne,VIC,3205,2025-06-15 00:00:00,3,2,2,,Apartment,965000
+11/287 Bank Street,South Melbourne,VIC,3205,2025-06-14 00:00:00,3,2,1,,Apartment,1300000
+35/69 Dorcas Street,South Melbourne,VIC,3205,2025-06-13 00:00:00,2,1,1,94,Apartment,630000
+523/85 Market Street,South Melbourne,VIC,3205,2025-06-12 00:00:00,2,2,1,,Unit,585000
+69/63 Dorcas Street,South Melbourne,VIC,3205,2025-06-07 00:00:00,1,1,1,55,Apartment,456800
+104/244 Dorcas Street,South Melbourne,VIC,3205,2025-06-03 00:00:00,1,1,1,,Apartment,480000
+1215/52 Park Street,South Melbourne,VIC,3205,2025-06-03 00:00:00,2,1,1,,Apartment,460000
+125 Napier Street,South Melbourne,VIC,3205,2025-05-31 00:00:00,2,1,1,,House,1317500
+G06/99 Palmerston Crescent,South Melbourne,VIC,3205,2025-05-31 00:00:00,2,2,1,,Apartment,700000
+1001/50 Albert Road,South Melbourne,VIC,3205,2025-05-31 00:00:00,2,1,1,,Apartment,485000
+1008/148 Wells Street,South Melbourne,VIC,3205,2025-05-29 00:00:00,1,1,1,54,Apartment,441000
+76/1 Sandilands Street,South Melbourne,VIC,3205,2025-05-27 00:00:00,2,2,2,109,Apartment,915000
+226/85 Market Street,South Melbourne,VIC,3205,2025-05-25 00:00:00,2,1,1,,Apartment,565000
+Residence 4/230 Ferrars Street,South Melbourne,VIC,3205,2025-05-24 00:00:00,3,3,2,,House,2000000
+113/85 Market Street,South Melbourne,VIC,3205,2025-05-10 00:00:00,2,1,1,,Apartment,581000
+34B Napier Street,South Melbourne,VIC,3205,2025-05-08 00:00:00,2,2,1,,Apartment,580000
+404/244 Dorcas Street,South Melbourne,VIC,3205,2025-05-06 00:00:00,1,1,1,,Apartment,465000
+605/89 Gladstone Street,South Melbourne,VIC,3205,2025-05-01 00:00:00,2,2,1,,Apartment,529280
+505/244 Dorcas Street,South Melbourne,VIC,3205,2025-05-01 00:00:00,1,1,1,53,Apartment,450000
+406/167 Gladstone Street,South Melbourne,VIC,3205,2025-04-30 00:00:00,2,2,1,,Apartment,635000
+13/333 Coventry Street,South Melbourne,VIC,3205,2025-04-29 00:00:00,1,1,1,,Apartment,545000
+15/66 Montague Street,South Melbourne,VIC,3205,2025-04-24 00:00:00,1,1,1,86,Apartment,590000
+307/167 Gladstone Street,South Melbourne,VIC,3205,2025-04-24 00:00:00,2,1,1,,Apartment,540000
+409/244 Dorcas Street,South Melbourne,VIC,3205,2025-04-17 00:00:00,1,1,1,,Apartment,565000
+711/28 Bank Street,South Melbourne,VIC,3205,2025-04-12 00:00:00,3,2,1,102,Apartment,790000
+26/1 Sandilands Street,South Melbourne,VIC,3205,2025-04-12 00:00:00,2,2,1,90,Apartment,710000
+413/51-59 Thistlethwaite Street,South Melbourne,VIC,3205,2025-04-09 00:00:00,2,2,1,79,Apartment,635000
+1302/38 Bank Street,South Melbourne,VIC,3205,2025-04-06 00:00:00,2,1,2,102,Apartment,735000
+202/148 Wells Street,South Melbourne,VIC,3205,2025-04-04 00:00:00,1,1,1,,Apartment,440000
+G01/142 Park Street,South Melbourne,VIC,3205,2025-03-31 00:00:00,3,3,2,195,Apartment,2200000
+1604/50 Albert Road,South Melbourne,VIC,3205,2025-03-31 00:00:00,2,1,1,,Apartment,530000
+1702/50 Albert Road,South Melbourne,VIC,3205,2025-03-26 00:00:00,1,1,1,,Apartment,400000
+98/39 Dorcas Street,South Melbourne,VIC,3205,2025-03-24 00:00:00,3,2,2,,Apartment,870000
+205/196 Albert Road,South Melbourne,VIC,3205,2025-03-21 00:00:00,2,2,2,,Apartment,870000
+1208/52 Park Street,South Melbourne,VIC,3205,2025-03-20 00:00:00,2,1,1,,Apartment,455000
+404/2-14 Albert Road,South Melbourne,VIC,3205,2025-03-19 00:00:00,1,1,1,,Apartment,515000
+706/51 Thistlethwaite Street,South Melbourne,VIC,3205,2025-03-14 00:00:00,2,2,1,,Apartment,915000
+115/39 Dorcas Street,South Melbourne,VIC,3205,2025-03-05 00:00:00,1,1,1,,Apartment,437500
+412/38 Bank Street,South Melbourne,VIC,3205,2025-03-04 00:00:00,3,2,2,,Apartment,925000
+83A Park Street,South Melbourne,VIC,3205,2025-03-02 00:00:00,3,2,1,,House,975000
+7 Little Tribe Street,South Melbourne,VIC,3205,2025-02-22 00:00:00,3,2,1,,House,2125000
+807/28 Bank Street,South Melbourne,VIC,3205,2025-02-17 00:00:00,2,1,1,75,Apartment,590000
+36A Napier Street,South Melbourne,VIC,3205,2025-02-15 00:00:00,2,2,1,,Apartment,745000
+805/79 Market Street,South Melbourne,VIC,3205,2025-02-12 00:00:00,2,2,1,,Apartment,733000
+1309/50  Albert Road,South Melbourne,VIC,3205,2025-02-12 00:00:00,2,2,1,,Apartment,595000
+1101/28 Bank Street,South Melbourne,VIC,3205,2025-02-10 00:00:00,2,2,1,93,Apartment,735000
+1906/38 Albert Road,South Melbourne,VIC,3205,2025-02-02 00:00:00,2,2,1,,Apartment,745000
+24D Napier Street,South Melbourne,VIC,3205,2025-01-31 00:00:00,2,2,1,,Apartment,770000
+201/58 Stead Street,South Melbourne,VIC,3205,2025-01-13 00:00:00,2,1,1,,Apartment,500000
+2108/38 Albert Road,South Melbourne,VIC,3205,2025-01-07 00:00:00,2,2,1,83,Apartment,670000
+508/51 Thistlethwaite Street,South Melbourne,VIC,3205,2025-01-02 00:00:00,2,2,1,,Apartment,593000

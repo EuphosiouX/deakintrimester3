@@ -24,6 +24,17 @@ plt.imshow(doc_bin, 'gray')
 num_labels, labels, stats, centroids = cv.connectedComponentsWithStats(doc_bin, connectivity=8)
 
 # %%
+def ExtractConnectedComponents(num_labels, labels_im): 
+    connected_components = [[] for i in range(0, num_labels)] 
+
+    height, width = labels_im.shape 
+    for i in range(0, height): 
+        for j in range(0, width): 
+            if labels_im[i, j] >= 0: 
+                connected_components[labels_im[i, j]].append((j, i)) 
+
+    return connected_components 
+
 # Step 4: Select candidate points on the negative image using one of the following strategies 
 def selectCandidatePoints(strategy, img):
     # Strategy A: All foreground pixels
@@ -45,14 +56,15 @@ def selectCandidatePoints(strategy, img):
     elif strategy == 'C':
         start_time = time.time()
         candidatePointsC = np.zeros_like(img)
-        for i in range(1, num_labels):
-            # Get mask of current component
-            component_mask = (labels == i).astype(np.uint8)
-            ys, xs = np.where(component_mask)
-            if len(ys) > 0:
-                max_y = np.max(ys)
-                x_at_max_y = xs[np.argmax(ys)]
-                candidatePointsC[max_y, x_at_max_y] = 255
+        # Use the optimized connected components
+        connected_components = ExtractConnectedComponents(num_labels, labels)
+
+        for i in range(1, num_labels):  # skip background
+            if connected_components[i]:
+                # Last pixel in the list has the max y (because of insertion order)
+                x, y = connected_components[i][-1]
+                candidatePointsC[y, x] = 255
+
         return strategy, candidatePointsC, time.time() - start_time
 
     else:
@@ -88,6 +100,9 @@ plt.axis("off")
 plt.tight_layout()
 plt.show()
 
+cv.imwrite(f'strategyA.png', candidatePoints[0][1])
+cv.imwrite(f'strategyB.png', candidatePoints[1][1])
+cv.imwrite(f'strategyC.png', candidatePoints[2][1])
 
 # %%
 # Step 6: Initialize Hough Transform parameters
